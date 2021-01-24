@@ -167,7 +167,7 @@ const IndexPage = () => {
         <div>
         Made by <a className="text-blue-800" href="https://www.tiktok.com/@benawad">
             Ben Awad
-          </a> & <a className="text-blue-800" href="https://www.tiktok.com/@benawad">
+          </a> & <a className="text-blue-800" href="https://www.tiktok.com/@justafolf">
             Folf
           </a>
         </div>
